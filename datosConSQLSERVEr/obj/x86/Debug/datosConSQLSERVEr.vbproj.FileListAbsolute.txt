@@ -1,0 +1,12 @@
+C:\Users\sebastian\AppData\Local\Temporary Projects\datosConSQLSERVEr\obj\x86\Debug\datosConSQLSERVEr.Form1.resources
+C:\Users\sebastian\AppData\Local\Temporary Projects\datosConSQLSERVEr\obj\x86\Debug\datosConSQLSERVEr.Resources.resources
+C:\Users\sebastian\AppData\Local\Temporary Projects\datosConSQLSERVEr\obj\x86\Debug\datosConSQLSERVEr.vbproj.GenerateResource.Cache
+C:\Users\sebastian\AppData\Local\Temporary Projects\datosConSQLSERVEr\bin\Debug\datosConSQLSERVEr.exe
+C:\Users\sebastian\AppData\Local\Temporary Projects\datosConSQLSERVEr\bin\Debug\datosConSQLSERVEr.pdb
+C:\Users\sebastian\AppData\Local\Temporary Projects\datosConSQLSERVEr\bin\Debug\datosConSQLSERVEr.xml
+C:\Users\sebastian\AppData\Local\Temporary Projects\datosConSQLSERVEr\obj\x86\Debug\datosConSQLSERVEr.exe
+C:\Users\sebastian\AppData\Local\Temporary Projects\datosConSQLSERVEr\obj\x86\Debug\datosConSQLSERVEr.xml
+C:\Users\sebastian\AppData\Local\Temporary Projects\datosConSQLSERVEr\obj\x86\Debug\datosConSQLSERVEr.pdb
+E:\cuarto semestre\punto net\Sistema de gestion de venta y bodega\datosConSQLSERVEr\datosConSQLSERVEr\obj\x86\Debug\datosConSQLSERVEr.exe
+E:\cuarto semestre\punto net\Sistema de gestion de venta y bodega\datosConSQLSERVEr\datosConSQLSERVEr\obj\x86\Debug\datosConSQLSERVEr.xml
+E:\cuarto semestre\punto net\Sistema de gestion de venta y bodega\datosConSQLSERVEr\datosConSQLSERVEr\obj\x86\Debug\datosConSQLSERVEr.pdb
